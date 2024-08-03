@@ -22,11 +22,18 @@ main {
     padding: 20px;
 }
 
+#wiki {
+  color: blue;
+  text-decoration: none;
+  font-family: italic;
+  font-size: 25px;
+}
+
 .small-image-left {
-    width: 200px; /
+    width: 200px; 
     height: auto;
     float: left;
-    margin: 0 15px 15px 0; /
+    margin: 0 15px 15px 0;
 }
 
 p {
